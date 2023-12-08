@@ -1,10 +1,10 @@
 package com.mentoring.movie.domain.ticket;
 
-import com.mentoring.movie.domain.global.IdResponse;
 import com.mentoring.movie.domain.movie.Movie;
 import com.mentoring.movie.domain.movie.MovieService;
 import com.mentoring.movie.domain.ticket.dto.TicketRequest;
 import com.mentoring.movie.domain.ticket.dto.TicketResponse;
+import com.mentoring.movie.global.IdResponse;
 
 import lombok.RequiredArgsConstructor;
 

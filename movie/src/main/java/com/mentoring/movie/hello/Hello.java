@@ -9,6 +9,8 @@ public class Hello {
         this.num++;
     }
 
+    public Hello() {}
+
     public Hello(String hello, Integer num) {
         this.hello = hello;
         this.num = num;

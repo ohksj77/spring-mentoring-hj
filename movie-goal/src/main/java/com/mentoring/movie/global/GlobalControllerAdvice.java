@@ -1,4 +1,4 @@
-package com.mentoring.movie.domain.global;
+package com.mentoring.movie.global;
 
 import com.mentoring.movie.domain.movie.IllegalSeatNumberException;
 

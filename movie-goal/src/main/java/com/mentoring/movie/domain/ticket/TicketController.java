@@ -1,10 +1,9 @@
 package com.mentoring.movie.domain.ticket;
 
-import com.mentoring.movie.domain.global.IdResponse;
 import com.mentoring.movie.domain.ticket.dto.TicketRequest;
-
 import com.mentoring.movie.domain.ticket.dto.TicketResponse;
-import java.util.List;
+import com.mentoring.movie.global.IdResponse;
+
 import lombok.RequiredArgsConstructor;
 
 import org.springframework.http.HttpStatus;
@@ -16,6 +15,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.bind.annotation.RestController;
+
+import java.util.List;
 
 @RestController
 @RequiredArgsConstructor

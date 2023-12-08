@@ -1,8 +1,8 @@
 package com.mentoring.movie.domain.movie;
 
-import com.mentoring.movie.domain.global.IdResponse;
 import com.mentoring.movie.domain.movie.dto.MovieRequest;
 import com.mentoring.movie.domain.movie.dto.MovieResponse;
+import com.mentoring.movie.global.IdResponse;
 
 import lombok.RequiredArgsConstructor;
 

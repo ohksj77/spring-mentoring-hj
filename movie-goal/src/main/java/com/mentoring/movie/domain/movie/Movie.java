@@ -15,6 +15,7 @@ import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 
+import java.util.ArrayList;
 import java.util.List;
 
 @Getter
@@ -36,7 +37,7 @@ public class Movie {
     private MovieStatus movieStatus;
 
     @OneToMany(mappedBy = "movie")
-    private List<Ticket> tickets;
+    private List<Ticket> tickets = new ArrayList<>();
 
     @Builder
     public Movie(final String title, final String introduce, final Genre genre) {
