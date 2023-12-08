@@ -11,6 +11,19 @@
 4. 빌드 방법을 세팅한다. -> 이미지를 참고한다.
 5. annotation 프로세싱을 세팅한다. -> 이미지를 참고한다.
 
+## Docker 명령어
+- movie 디렉터리에서 실행해야 합니다.
+
+실행시
+```
+docker-compose up
+```
+
+종료시
+```
+docker-compose down
+```
+
 ## Reference
 - [https://start.spring.io](https://start.spring.io)
 - [https://www.oracle.com/kr/java/technologies/downloads/#jdk17-mac](https://www.oracle.com/kr/java/technologies/downloads/#jdk17-mac)
