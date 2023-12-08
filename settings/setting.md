@@ -8,7 +8,8 @@
 1. movie 프로젝트를 인텔리제이에서 열어준다.
 2. `.env.template` 파일 내용 및 파일명 `.env`로 수정한다.
 3. EnvFile 플러그인을 세팅한다. -> 이미지들을 참고한다.
-4. 빌드 방법을 세팅한다. -> 이미지들을 참고한다.
+4. 빌드 방법을 세팅한다. -> 이미지를 참고한다.
+5. annotation 프로세싱을 세팅한다. -> 이미지를 참고한다.
 
 ## Reference
 - [https://start.spring.io](https://start.spring.io)
