@@ -1,5 +1,7 @@
 # spring-mentoring-hj
 
+| 1회차: 2023.12.8, 2회차: 2023.12.13
+
 - [사전 세팅](settings/setting.md)
 - movie: 사용할 프로젝트
 - movie-goal: 구현 완료시 프로젝트
